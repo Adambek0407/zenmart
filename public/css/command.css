@@ -15,10 +15,10 @@ p {
     position: relative;
     width: 1320px;
     height: auto;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     display: flex;
     /* yo'q edi */
-    align-items: center;
+    /* align-items: center; */
 }
 /* NAVBAR */
 
